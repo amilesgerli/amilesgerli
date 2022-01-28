@@ -2,7 +2,7 @@
 
 ## Programlama eğitimi haqqında
 
-Bu GitHub sayfasında farklı dilerden toplamışolduğum 💻 Programlama materyalerini 🇹🇷 Türkce okunması ve anlaşılması kolay
+Bu GitHub sayfasında farklı dillerden toplanan 💻 Programlama materyalerini 🇹🇷 Türkce okunması ve anlaşılması kolay
 şekilde anlatacağım. Bu sayfada 30-Gün içersinde HTML, CSS, JavaScript, PYTON, bunlar gibi birçok eğitim kitaplıkları
 bulunmaktadır.
 
