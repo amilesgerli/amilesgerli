@@ -1,10 +1,4 @@
-# Merhaba 👋
-
-## Programlama eğitimi haqqında
-
-Bu GitHub sayfasında farklı dillerden toplanan 💻 Programlama materyalerini 🇹🇷 Türkce okunması ve anlaşılması kolay
-şekilde paylaşıyorum. Bu sayfada kısa süre içersinde HTML, CSS, JavaScript, PYTON bunlar gibi birçok eğitim kitaplıkları
-bulunmaktadır.
+### Hi there 👋
 
 <!--
 **amilesgerli/amilesgerli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
